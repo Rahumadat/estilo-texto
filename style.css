@@ -1,0 +1,21 @@
+h1{
+    background-color: black;
+}
+.my {
+    
+    color: white;
+}
+.cloud {
+    color: aqua;
+}
+h3 {
+    background-color: blueviolet;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+}
+h5 {
+    background-color: rgb(107, 144, 223);
+    text-align: right;
+    text-decoration-line: underline;
+}
